@@ -1,0 +1,1 @@
+A simple mod to only allow bosses to spawn with a certain amount of people on a world

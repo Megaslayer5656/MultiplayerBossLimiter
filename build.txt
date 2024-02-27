@@ -1,0 +1,3 @@
+displayName = Multiplayer Boss Limiter
+author = Megaslayer_
+version = 0.1
